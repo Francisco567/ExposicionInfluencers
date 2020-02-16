@@ -3,3 +3,5 @@ Página web sencilla desarrollada para la exposición del curso de Ingenieria We
 
 URL:
 ### https://francisco567.github.io/GrupoExpo/
+
+Nota: Actualmente ya no es posible acceder a las encuestas insertadas en la página debido a que fueron eliminadas una de google forms.
